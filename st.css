@@ -1,0 +1,60 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-image: url('IMG_3051.JPG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    color: #000000; /
+  }
+  
+  .first {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    direction: ltr; 
+    text-align: left;
+  }
+  h1{
+    text-align: left;
+    color: #474444;
+  }
+  
+  h2 {
+    color: #666;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    text-align: left;
+  }
+  
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+    padding-right: 0;
+    text-align: left;
+  }
+  
+  .secnd{
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .contact {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
+  
+  
