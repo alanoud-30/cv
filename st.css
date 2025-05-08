@@ -1,19 +1,19 @@
 body {
     font-family: "Arial", sans-serif;
-    background-image: url('IMG_3063.jpg');
+    background-image: url('IMG_3064.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
-    color: #000000; /
+    color: #000000; 
   }
   
   .first {
     width: 80%;
     max-width: 900px;
     margin: 20px auto;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.297);
     padding: 30px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     direction: ltr; 
@@ -21,11 +21,11 @@ body {
   }
   h1{
     text-align: left;
-    color: #474444;
+    color: #0a512b;
   }
   
   h2 {
-    color: #666;
+    color: #a25454;
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
     margin-top: 30px;
@@ -50,9 +50,9 @@ body {
   }
   
   .contact {
-    background-color: #f0f0f0;
-    padding: 15px;
-    border-radius: 5px;
+    background-color: #12461b6a;
+    padding: 10px;
+    border-radius: 3px;
     text-align: left;
   }
   
